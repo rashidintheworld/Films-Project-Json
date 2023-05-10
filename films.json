@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "genres": "Drama",
+        "actors": "Tim Robbins, Morgan Freeman",
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "genres": "Crime, Drama",
+        "actors": "Marlon Brando, Al Pacino",
+        "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "genres": "Action, Crime, Drama",
+        "actors": "Christian Bale, Heath Ledger",
+        "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "genres": "Drama, Romance",
+        "actors": "Tom Hanks, Robin Wright",
+        "plot": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "genres": "Crime, Drama",
+        "actors": "John Travolta, Uma Thurman",
+        "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    }
+]
